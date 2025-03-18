@@ -1,0 +1,1 @@
+users.xml is for defining admin users, created accounts will be saved in the sql

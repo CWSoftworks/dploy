@@ -1,4 +1,6 @@
 # DPLY Helper
+# Won't work, untill we publish a release, so don't use this yet
+
 REPO="CWSoftworks/dploy"
 VERSION_FILE=".data/version.txt"
 
