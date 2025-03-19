@@ -1,0 +1,8 @@
+<Plugins>
+    <Plugin>
+        <Name>dply-frontend</Name>
+        <Repo></Repo>
+        <Version>1.0.0-alpha</Version>
+        <Injkt-File>injkt.json</Injkt-File>
+    </Plugin>
+</Plugins>
