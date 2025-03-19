@@ -11,5 +11,18 @@
             "remote-push-verified": "true",
             "account-2fa": "true"
         }
+    },
+    "push-config": {
+        "strict-repos": "true",
+        "strict-repos-list": "repos.txt",
+        "requires-review": "true"
+    },
+    "key-config": {
+        "required": "true",
+        "created-accounts-generate": "false"
+    },
+    "plugin-config": {
+        "enabled": "false",
+        "enforce-api-version": "false"
     }
 }
